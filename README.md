@@ -15,7 +15,7 @@ command | task
 --- | ---
 git config --global user.name "\<name>" | Configure author name to be used with commits
 git config --global user.email \<email> | Configure email address to be used with commits
-git config --global credential.helper store | Store credentials (Will need one more time to input)
+git config credential.helper store | Store credentials (Will need one more time to input)
 ### Local
 command | task
 --- | ---
