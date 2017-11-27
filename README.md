@@ -1,5 +1,7 @@
 # Git Basic Commands
 ### Help
+command | task
+--- | ---
 git | View help
 git <cmd> --help | View specific help for a command
 ### Create
@@ -13,6 +15,8 @@ command | task
 git config --global user.name "<name>" | Configure author name to be used with commits
 git config --global user.email <email> | Configure email address to be used with commits
 ### Local
+command | task
+--- | ---
 git status | View staging
 git add <file> | Add a file to staging
 git add -A | Add all files to staging
