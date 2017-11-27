@@ -1,5 +1,5 @@
 # Git Basic Commands
-Ignore <>
+> Ignore <>
 ### Help
 command | task
 --- | ---
