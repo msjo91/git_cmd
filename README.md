@@ -1,4 +1,5 @@
 # Git Basic Commands
+Ignore <>
 ### Help
 command | task
 --- | ---
@@ -26,8 +27,8 @@ git log | View commit logs
 ### Remote
 command | task
 --- | ---
-git remote add origin \<server> | Connect to a remote repository naming 'origin'
 git remote -v | List all currently configured remote repositories
+git remote add origin \<server> | Connect to a remote repository naming 'origin'
 git push -u origin master | Push commits to remote repository with upstream (tracking reference)
 git pull | Fetch and merge changes on remote server to working directory (need .git)
 ### Branch
